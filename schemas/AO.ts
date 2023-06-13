@@ -37,10 +37,5 @@ export default {
       title: 'Google Maps Link',
       description: 'URL for Google Maps that the user can click on and be taken to google maps',
     },
-    {
-      name: 'location_geopoint',
-      type: 'geopoint',
-      title: 'Location Geopoint',
-    },
   ],
 }
